@@ -1,0 +1,1 @@
+Le projet est un exercice qui consiste a faire l'initialisation et le premier commit
